@@ -1,7 +1,7 @@
 # Mapa-de-Habilidades
-Gerado atraves de um prompt de entrevista conforme a estrutura de etapas e perguntas do material de apoio da DIO do "Mapa de Habilidades"
+*Gerado atraves de um prompt de entrevista conforme a estrutura de etapas e perguntas do material de apoio da DIO do "Mapa de Habilidades"*
 
-# 📊 Etapa 1: Inventário de HabilidadesO  
+# 📊 Etapa 1: Inventário de Habilidades  
 
 ---
 
